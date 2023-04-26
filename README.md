@@ -120,7 +120,7 @@ I used the C# compiler that came with Visual Studio 2022.
 I compile and run the program from a Visual Studio 2022 Developer Command Prompt.
 
     > csc TriplesCS.cs -o
-    > Triples ints1k.txt 100
+    > TriplesCS ints1k.txt 100
 
 ### Note
 The -o flag turns on optimization like Visual Studio does for Release builds.
